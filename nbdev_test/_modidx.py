@@ -6,4 +6,4 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/jmacarulla/nbdev-test',
                 'lib_path': 'nbdev_test'},
   'syms': { 'nbdev_test.core': { 'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py'),
-                                 'nbdev_test.core.sum': ('core.html#sum', 'nbdev_test/core.py')}}}
+                                 'nbdev_test.core.my_sum': ('core.html#my_sum', 'nbdev_test/core.py')}}}
