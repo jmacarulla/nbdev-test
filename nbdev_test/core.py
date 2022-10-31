@@ -3,17 +3,17 @@
 # %% auto 0
 __all__ = ['foo', 'my_sum', 'my_sub', 'my_mul', 'say_hello']
 
-# %% ../nbs/00_core.ipynb 3
+# %% ../nbs/00_core.ipynb 4
 def foo(): pass
 
-# %% ../nbs/00_core.ipynb 4
+# %% ../nbs/00_core.ipynb 5
 def my_sum(x): return x+22
 
-# %% ../nbs/00_core.ipynb 5
+# %% ../nbs/00_core.ipynb 6
 def my_sub(x): return x-22
 def my_mul(x): return x*22
 
-# %% ../nbs/00_core.ipynb 6
+# %% ../nbs/00_core.ipynb 7
 def say_hello(to):
     "Say hello to somebody"
     return f'Hello {to}!'
