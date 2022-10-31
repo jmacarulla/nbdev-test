@@ -8,4 +8,5 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'nbdev_test.core': { 'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py'),
                                  'nbdev_test.core.my_mul': ('core.html#my_mul', 'nbdev_test/core.py'),
                                  'nbdev_test.core.my_sub': ('core.html#my_sub', 'nbdev_test/core.py'),
-                                 'nbdev_test.core.my_sum': ('core.html#my_sum', 'nbdev_test/core.py')}}}
+                                 'nbdev_test.core.my_sum': ('core.html#my_sum', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.say_hello': ('core.html#say_hello', 'nbdev_test/core.py')}}}
