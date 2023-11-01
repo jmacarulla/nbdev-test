@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "\\[\\sum_{i=1}^{k+1}i\\]\n\nsource\n\nfoo\n\n foo ()\n\n\nsource\n\n\nmy_sum\n\n my_sum (x)\n\n\nsource\n\n\nmy_mul\n\n my_mul (x)\n\n\nsource\n\n\nmy_sub\n\n my_sub (x)\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
